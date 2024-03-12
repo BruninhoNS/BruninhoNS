@@ -1,7 +1,7 @@
 ## Olá. Eu sou o Bruno Cardoso
 <p>🧰 Atualmente trabalho como eletricista.</p>
 <p>💻 Sempre gostei a área de informática, então tive a oportunidade de estudar. E agora estou tentado migrar para a área de Desenvolvimento FULL STACK.</p>
-<p>https://bruninhons.github.io/</p>
+<p>https://bruninhons.github.io/Bruno/</p>
 
 <div>
   
