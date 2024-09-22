@@ -1,6 +1,6 @@
 ## Olá. Eu sou o Bruno Cardoso
-<p>🧰 Atualmente trabalho como eletricista.</p>
-<p>💻 Sempre gostei a área de informática, então tive a oportunidade de estudar. E agora estou tentado migrar para a área de Desenvolvimento FULL STACK.</p>
+<p>🧰 Atualmente trabalho como eletricista instalador.</p>
+<p>💻 Sempre tive interesse pela área de informática, o que me levou a estudar mais a fundo. Agora, estou buscando migrar para o desenvolvimento de software.</p>
 <p>https://bruninhons.github.io/Bruno/</p>
 
 <div>
